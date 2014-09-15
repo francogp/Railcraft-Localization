@@ -312,7 +312,7 @@ railcraft.gui.goggles.tip=Usar desde la barra de acceso rápido para cambiar Aur
 
 railcraft.gui.help=Ayuda
 
-railcraft.gui.ic2.energy.rate=Tarifa: @.2f
+railcraft.gui.ic2.energy.rate=Tarifa: @d EU
 
 railcraft.gui.item.loader.all.tip=Mover todos los objetos que coincidan
 railcraft.gui.item.loader.all=Todo
@@ -448,7 +448,7 @@ railcraft.gui.tuner.start=Empezó a emparejar @s con un Receptor
 railcraft.gui.tuner.stop=Dejó de emparejar @s con un Receptor
 railcraft.gui.tuner.success=@1$s apareado exitosamente con @2$s
 
-railcraft.gui.turbine.output=Salida: @d@@
+railcraft.gui.turbine.output=Salida: @d%%
 railcraft.gui.turbine.rotor=Rotor:
 railcraft.gui.turbine=Turbina a Vapor
 
@@ -469,7 +469,7 @@ railcraft.multiblock.state.invalid.pattern=No coincide con patrón: @s
 railcraft.multiblock.state.unknown.unloaded=Parte de la estructura no está cargada: @s
 railcraft.multiblock.state.valid=La estructura es válida
 
-tc.research.category.RAILCRAFT=Traheremagy
+tc.research_category.RAILCRAFT=Traheremagy
 thaumcraft.research.RC_Crowbar.name=Palanca de Thaumium
 thaumcraft.research.RC_Crowbar.page.1=Por la sustitución Thaumium por el acero e impregnandolo con un toque de Orden, ha descubierto cómo crear una palanca que es mucho más receptiva a la magia.
 thaumcraft.research.RC_Crowbar.text=[RC] Creo que se le cayó esto...
